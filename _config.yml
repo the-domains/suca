@@ -1,4 +1,3 @@
-layout_spectrum: 0.08778872084803879
 typography_spectrum: 0.8526246037799865
 color:
   brandStrength: 0.6790256868116558
@@ -11,4 +10,12 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
+opengraph:
+  type: ''
+layout_spectrum: 0.08778872084803879
+author:
+  name: Suca M. Mazzamati
+  email: sucamazzamati@gmail.com
+  url: suca
 name: suca
+title: Ateliê
